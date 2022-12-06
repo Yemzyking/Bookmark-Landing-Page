@@ -1,4 +1,4 @@
-# Bookmark-Landing-Page-
+# Bookmark-Landing-Page
 A Reactive bookmark landing page 
 A project i cam across on YouTube and decided to recrate and make better with CSS. 
 I added some Responsiveness & style. made it more mobile friendly 
